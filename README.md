@@ -6,4 +6,5 @@ Various funny games with AI using MCTS
 Requirement :
   
   pymcts
+  
   python3 >= 3.5.1
