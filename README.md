@@ -8,3 +8,7 @@ Requirement :
   pymcts
   
   python3 >= 3.5.1
+  
+Example :
+
+  python3 game_tictactoe.py
